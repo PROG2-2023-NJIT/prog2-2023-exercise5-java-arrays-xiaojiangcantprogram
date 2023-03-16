@@ -2,7 +2,7 @@ package prog2.exercise5.flight.booking.system;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class App {
+public class FlightBooking {
 private String flightCompany = "Flights-of-Fancy";
 private String flightID = "rdytvf68tr6";
 //private String passengerFullName;
