@@ -1,4 +1,4 @@
-package prog2.exercise4.flight.booking.system;
+package prog2.exercise5.flight.booking.system;
 
 /**
  * Hello world!
